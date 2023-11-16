@@ -1,0 +1,205 @@
+2023-11-10 Version: v3.3.2
+- Generated golang 2014-08-15 for Rds.
+
+2023-11-07 Version: v3.3.1
+- Generated golang 2014-08-15 for Rds.
+
+2023-11-03 Version: v3.3.0
+- Generated golang 2014-08-15 for Rds.
+
+2023-10-21 Version: v3.2.0
+- Generated golang 2014-08-15 for Rds.
+
+2023-09-14 Version: v3.1.0
+- Generated golang 2014-08-15 for Rds.
+
+2023-08-08 Version: v3.0.223
+- Generated golang 2014-08-15 for Rds.
+
+2023-08-06 Version: v3.0.222
+- Generated golang 2014-08-15 for Rds.
+
+2023-08-05 Version: v3.0.221
+- Generated golang 2014-08-15 for Rds.
+
+2023-08-04 Version: v3.0.220
+- Generated golang 2014-08-15 for Rds.
+
+2023-07-31 Version: v3.0.219
+- Fix bug ram.
+- Add minor version error.
+- Support to select the minor version of the kernel when the modify instance error reports that the kernel version does not support it.
+
+2023-07-30 Version: v3.0.218
+- Fix bug ram.
+- Add minor version error.
+- Support to select the minor version of the kernel when the modify instance error reports that the kernel version does not support it.
+
+2023-07-29 Version: v3.0.217
+- Fix bug ram.
+- Add minor version error.
+- Support to select the minor version of the kernel when the modify instance error reports that the kernel version does not support it.
+
+2023-07-28 Version: v3.0.216
+- Fix bug ram.
+- Add minor version error.
+- Support to select the minor version of the kernel when the modify instance error reports that the kernel version does not support it.
+
+2023-07-27 Version: v3.0.215
+- Fix bug ram.
+- Add minor version error.
+- Support to select the minor version of the kernel when the modify instance error reports that the kernel version does not support it.
+
+2023-07-25 Version: v3.0.214
+- Add error code.
+- Support System param.
+
+2023-07-24 Version: v3.0.213
+- Add error code.
+- Add error code for CreateDBNodes.
+
+2023-07-23 Version: v3.0.212
+- Fix 500 for CreateOrder.
+- Support sts.
+
+2023-07-22 Version: v3.0.211
+- Fix 500 for CreateOrder.
+- Support sts.
+
+2023-07-21 Version: v3.0.210
+- Fix 500 for CreateOrder.
+- Support sts.
+
+2023-07-19 Version: v3.0.29
+- Add openapis for whitelist template.
+
+2023-07-18 Version: v3.0.28
+- Supported RDS PostgreSQL manage extensions.
+
+2023-07-17 Version: v3.0.27
+- Add TimeOut.
+
+2023-07-16 Version: v3.0.26
+- Add error code.
+
+2023-07-15 Version: v3.0.25
+- Add error code.
+
+2023-07-13 Version: v3.0.24
+- Support change instance config event for rds.
+- Add NodeId param for restart slave.
+
+2023-07-12 Version: v3.0.23
+- Add error coede.
+- Fix bugs for 500.
+
+2023-07-11 Version: v3.0.22
+- Fixed 500 for interface.
+
+2023-07-10 Version: v3.0.21
+- Fixed 500 for interface.
+
+2023-07-10 Version: v3.0.20
+- Add DescribeClassDetails Api.
+
+2023-07-09 Version: v3.0.19
+- Add AutoUseCoupon field.
+- Api Offline.
+
+2023-07-08 Version: v3.0.18
+- Add AutoUseCoupon field.
+- Api Offline.
+
+2023-07-07 Version: v3.0.17
+- Add AutoUseCoupon field.
+- Api Offline.
+
+2023-07-06 Version: v3.0.16
+- Add AutoUseCoupon field.
+- Api Offline.
+
+2023-07-05 Version: v3.0.15
+- Add AutoUseCoupon field.
+- Api Offline.
+
+2023-07-04 Version: v3.0.14
+- Fix bugs for  DescribeDedicatedHosts.
+- Fixed bugs add ERRORCODE.
+- Added serverless config to support serverless price query.
+
+2023-07-04 Version: v3.0.13
+- ModifyBackupPolicy API support parameter BackupPriority.
+- DescribeBackupPolicy API add return parameters: BackupPriority and SupportModifyBackupPriority.
+
+2023-07-03 Version: v3.0.12
+- Fix bugs for  DescribeDedicatedHosts.
+- Fixed bugs add ERRORCODE.
+- Added serverless config to support serverless price query.
+
+2023-07-02 Version: v3.0.11
+- Fixed bugs for lack of regionId.
+- Fix error code.
+
+2023-07-01 Version: v3.0.10
+- Fixed bugs for lack of regionId.
+- Fix error code.
+
+2023-06-30 Version: v3.0.9
+- Fixed bugs for lack of regionId.
+- Fix error code.
+
+2023-06-30 Version: v3.0.8
+- ModifyBackupPolicy API support parameter BackupPriority.
+- DescribeBackupPolicy API add return parameters: BackupPriority and SupportModifyBackupPriority.
+
+2023-06-29 Version: v3.0.7
+- Support More Open Api.
+
+2023-06-26 Version: v3.0.6
+- Support More Open Api.
+
+2023-06-15 Version: v3.0.5
+- Support More Open Api.
+
+2023-03-27 Version: v3.0.4
+- Support More Open Api.
+
+2022-11-22 Version: v3.0.3
+- Support More Open Api.
+
+2022-10-28 Version: v3.0.2
+- Support More Open Api.
+
+2022-09-23 Version: v3.0.1
+- Generated golang 2014-08-15 for Rds.
+
+2022-09-23 Version: v3.0.0
+- Generated golang 2014-08-15 for Rds.
+
+2022-08-31 Version: v2.1.1
+- Support More Open Api.
+
+2022-05-27 Version: v2.1.0
+- StartDBInstance parameter change.
+
+2022-05-06 Version: v2.0.5
+- StartDBInstance parameter change.
+
+2021-09-16 Version: v2.0.4
+- AMP Version Change.
+
+2021-07-05 Version: v2.0.3
+- AMP Version Change.
+
+2021-04-29 Version: v2.0.2
+- Update AMP API.
+
+2021-01-12 Version: v2.0.1
+- Generated golang 2014-08-15 for Rds.
+
+2020-12-28 Version: v2.0.0
+- AMP Version Change.
+
+2020-11-23 Version: v1.0.2
+- Generated golang 2014-08-15 for Rds.
+
