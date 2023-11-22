@@ -1,4 +1,4 @@
-module github.com/zeusYi/aliyun-gosdk-rds
+module github.com/zeusYi/aliyun-gosdk/rds
 
 go 1.15
 
